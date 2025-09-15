@@ -22,7 +22,7 @@ It automates the **end-to-end ML lifecycle** — from data preprocessing to mode
 
 ## 🏗️ Architecture  
 
-```mermaid
+```
 flowchart TD
     A[Autonomous ML Agent (LLM Orchestrator)]
     B[Agent 1 - Preprocessing\nHandle nulls, encode, scale]
